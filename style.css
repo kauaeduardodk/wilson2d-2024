@@ -13,3 +13,7 @@
 .imagem-cabecalho{ 
 width: 9%;
 }
+.item-lista-cabecalho{
+    display: inline-block;
+    font-size: 24px;
+}
