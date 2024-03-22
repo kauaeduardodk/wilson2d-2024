@@ -4,7 +4,7 @@
     padding: 0;
 }
 :root{
-    --cor-fundo : #7A8854;
+    --cor-fundo : #4EBFE9;
     --cor-fontes :#000000;
 }
 .cabecalho{
@@ -39,4 +39,16 @@ width: 10%;
 .escola-titulo{
     padding: 24px 0;
 }
-   
+   .escola.div.conteudo{
+    width: 35%;
+   }
+   .escola-titulo{
+    padding: 24px 0;
+    }
+    .escola-imagem{
+        width: 120px;
+    }
+    .estudante-icone{width: 24px;
+    }
+    .estudante-div{text-align: center;
+    }
